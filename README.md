@@ -1,2 +1,7 @@
-# psdetch-issues
-This repo is only used to report issues
+# About this Repo
+
+This repo is only used for:
+* Issue Report
+* Feature Request
+* Documentation
+
